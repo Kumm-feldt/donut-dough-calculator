@@ -1,0 +1,11 @@
+Receta de donas para 8 donas
+Clima: Normal	Hora: 16:14:29 | 25/04/23
+---------------------------------
+Harina: 282.0512
+Margarina: 14.712
+Manteca: 14.712
+Huevo: 42.304
+Azucar: 45.14496
+Agua: 101.6
+Sal: 2.32
+Levadura: 2.8176
